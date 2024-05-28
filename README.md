@@ -25,6 +25,7 @@ pip install tensorflow keras numpy matplotlib
 
 ```bash
 git clone https://github.com/boobyyy03/horse_or_human.git
+```
 
 # CNN Model Overview
 
